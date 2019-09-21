@@ -1,0 +1,3 @@
+The most common way to launch spark applications on the cluster is to use the shell command spark-submit .
+When using spark-submit shell command the spark application need not be configured particularly for each cluster
+as the spark-submit shell script uses the cluster managers through a single interface .

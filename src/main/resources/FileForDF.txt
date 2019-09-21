@@ -1,0 +1,5 @@
+CustId|Items|Price
+123|baby powder|50
+123|shampoo|175
+475|Cookies|89
+689|Scissors|40

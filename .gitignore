@@ -1,4 +1,11 @@
 # Compiled class file
+*.DS_Store
+.idea/
+README.md
+build.sbt
+project/*
+target/*
+
 *.class
 
 # Log file
